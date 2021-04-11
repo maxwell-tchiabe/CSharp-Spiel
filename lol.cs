@@ -2,10 +2,10 @@ using System;
 
 namespace NumberGuesser
 {
-       // Main class
+
      class Progamm
      {
-           // Main methode
+
          static void Main(string[] args){
             
             // var 
